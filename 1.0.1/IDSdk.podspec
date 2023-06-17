@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name = 'IDSDK'
-  s.version = "1.0.1"
+  s.version = '1.0.1'
   s.summary = "Identity as a service SDK used for authentication."
   s.homepage = 'https://github.vodafone.com/VFGroup-CPS-VFID/idsdk-ios'
   s.license = { :type => "Private", :text => "Copyright 2010-2023 by Vodafone. All right reserved." }
