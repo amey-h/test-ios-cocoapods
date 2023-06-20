@@ -2,6 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name = 'IDSdk'
+  s.module_name = 'IDSdk'
   s.version = '1.0'
   s.summary = "Identity as a service SDK used for authentication."
   s.homepage = 'https://github.vodafone.com/VFGroup-CPS-VFID/idsdk-ios'
